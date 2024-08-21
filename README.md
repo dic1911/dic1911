@@ -1,1 +1,1 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dic1911&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)
+![My GitHub stats](https://readme-stats2-five.vercel.app/api?username=dic1911&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)
